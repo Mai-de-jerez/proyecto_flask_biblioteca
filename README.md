@@ -128,7 +128,7 @@ Aunque en un futuro no muy lejano volveré a subir este proyecto usando como bab
 Aquí te dejo una visión general de la estructura de carpetas y archivos:
 
 ```
-tu_proyecto_biblioteca/
+proyecto_biblioteca/
 ├── .venv/                     # Entorno virtual (IGNORADO por Git)
 ├── app.py                     # Define la aplicación Flask, sus Blueprints y la gestión de contexto de base de datos
 ├── run_server.py              # Script principal para iniciar la aplicación
